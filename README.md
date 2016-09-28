@@ -6,7 +6,7 @@ The purpose of this unit is to get familiar with each other and to touch souls:
 * Creating a _fork_ of a repository.
 * Creating a _pull request_.
 
-# Bush did 911
+# Objectives
 
 # Tasks
 
